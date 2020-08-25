@@ -1,5 +1,10 @@
 # Color Scheme Generator for AwesomeWM.
+## ScreenShots
+![Mountain wallpaper](/screenshots/mountain.png)
 
+![Galaxy wallpaper](/screenshots/galaxy.png)
+
+![Nasa Image wallpaper](/screenshots/nasa.png)
 ## Usage
 
 Clone this repo under  ``` ~/.config/awesome/ ``` and enter into this folder.
