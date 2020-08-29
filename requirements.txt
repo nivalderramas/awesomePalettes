@@ -1,0 +1,4 @@
+black
+pyflakes
+pycodestyle
+pre-commit
